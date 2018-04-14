@@ -1,9 +1,9 @@
 const Discord = require("discord.js");
 const fs = require("fs");
+const prefixes = require("../jsons/prefixes.json");
 
 module.exports.run = async (client,message,args) => {
 
-  let prefixes = JSON.parse(fs.readFileSync("./jsons/prefixes.json", "utf8"));
   const prefix = prefixes[message.guild.id].prefixes;
 
   if(!message.member.hasPermission("ADMINISTRATOR"))return message.reply('you need the "`ADMINISTRATOR`" permission to use this');
