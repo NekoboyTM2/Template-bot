@@ -1,0 +1,33 @@
+        **BEFORE you try to run this bot there are things you have to do**
+
+1. install node.js => https://nodejs.org/en/
+
+2. install some sort of code editor (Notepad++, Sublime, Atom, VS-Code)
+	Notepad++ => https://notepad-plus-plus.org/download/v7.5.6.html
+	Sublime => https://www.sublimetext.com/3
+	Atom => https://atom.io/
+	VS-Code (recommended) => https://code.visualstudio.com/download
+
+3. create a folder on your desktop to put the bot in (no spaces in the name, spaces will throw errors)
+
+4. open command prompt and navigate to the folder you just created 
+	[cd desktop /then cd <folder name>]
+
+5. type "npm init" and spam enter (everything can be changed later)
+	once you're done with that type "npm i discord.js" [installs the discord.j library for the bot]
+	after it's done type "npm i fs" [re-installs fs]
+
+6. open the folder you created on your desktop for the bot, you should see a "node-modues" folder
+   along with a "package.json" and a "package-lock.json" ... remember step 5?, ya well .. all the
+   npm init did was create the package.json, so you can open it to edit the things
+
+7. edit the config.js for your bot token and bot.js for the default prefix
+
+8. enjoy the bot (it's just a template tho)
+
+
+
+
+My discord Name & tag (if you wanna add me as a friend) => Nekoboy™#7409
+
+My discord bot server (for testing and help with code) => https://discord.gg/VrWTepA (infinite link)
