@@ -1,15 +1,11 @@
 # Template-bot
-this is a template bot with a command handler, ping command, and customizable prefix
+this is a template bot with a command handler, ping command, and ping prefix
 
   **BEFORE you try to run this bot there are things you have to do**
 
-1. install node.js => https://nodejs.org/en/
+1. install [node.js](https://nodejs.org/en)
 
-2. install some sort of code editor (Notepad++, Sublime, Atom, VS-Code)
-	Notepad++ => https://notepad-plus-plus.org/download/v7.5.6.html
-	Sublime => https://www.sublimetext.com/3
-	Atom => https://atom.io/
-	VS-Code (recommended) => https://code.visualstudio.com/download
+2. install some sort of code editor ([Notepad++](https://notepad-plus-plus.org/download/v7.5.6.html)[Sublime](https://www.sublimetext.com), [Atom](https://atom.io/), [VS-Code (recommended)](https://code.visualstudio.com/download))
 
 3. put your bot token in the config.js
 
@@ -21,7 +17,6 @@ this is a template bot with a command handler, ping command, and customizable pr
 
 
 
-My discord Name & tag (if you wanna add me as a friend) => Nekoboy™#7409 (i change my name sometimes)
+My discord Name & tag (if you wanna add me as a friend) => Infinity#2822 (i change my name sometimes)
 
-My discord bot server (for testing and help with code) => https://discord.gg/fVgFqgw
-(infinite link)
+My [discord server](https://discord.gg/ZrX8cTF) (for help with code)
